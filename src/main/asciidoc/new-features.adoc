@@ -3,6 +3,10 @@
 
 New and noteworthy in the latest releases.
 
+[[new-in-2.1.0]]
+== New in Spring Data Redis 2.1
+* <<redis:reactive:pubsub,Reactive Pub/Sub>> to send and receive a message stream.
+
 [[new-in-2.0.0]]
 == New in Spring Data Redis 2.0
 
